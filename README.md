@@ -1,7 +1,8 @@
 # relatorioVendas_dio
 Criação de Dashboard no PowerBi para o desafio do bootcamp de Ciência de Dados da Santander/Dio.
 
-Para a entrega do desafio foi elaborado um relatório com: Estrutura definida 
+Para a entrega do desafio foi elaborado um relatório com: 
+- Estrutura definida 
 
 - Botões de navegação que fornecem navegabilidade 
 
